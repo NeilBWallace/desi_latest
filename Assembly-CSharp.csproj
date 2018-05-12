@@ -102,6 +102,9 @@
      <Compile Include="Assets\Scripts\stats.cs" />
      <Compile Include="Assets\Scripts\StrengthScript.cs" />
      <None Include="Assets\JSONObject\readme.txt" />
+     <None Include="Assets\Fruit Pack\Shaders\ToonLitTransparent.shader" />
+     <None Include="Assets\Fruit Pack\Shaders\ToonLit.shader" />
+     <None Include="Assets\Croissants_Pack\Documentation\Naming_convention.txt" />
      <None Include="Assets\FREE Food Pack\Shaders\Food.shader" />
      <None Include="Assets\FantasyEnvironments\Environments\README.txt" />
      <None Include="Assets\FoodAndGrocery\Info.txt" />
