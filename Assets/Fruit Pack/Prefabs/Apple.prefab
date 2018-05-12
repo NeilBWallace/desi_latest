@@ -53,6 +53,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4000011667685464}
+  - component: {fileID: 114155120404397858}
   - component: {fileID: 205000011201749446}
   - component: {fileID: 65000012155365366}
   - component: {fileID: 114322768592024542}
@@ -71,7 +72,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000013678658166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 263.451, y: 1.975, z: 171.84}
+  m_LocalPosition: {x: 238.09862, y: 3.57, z: 138.91315}
   m_LocalScale: {x: 6.745701, y: 6.7457047, z: 6.7457047}
   m_Children:
   - {fileID: 4000013711606732}
@@ -87,7 +88,7 @@ Transform:
   m_GameObject: {fileID: 1000012063083088}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.9694865, y: 2.9694881, z: 2.9694881}
   m_Children: []
   m_Father: {fileID: 4000011667685464}
   m_RootOrder: 1
@@ -235,6 +236,17 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &114155120404397858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013678658166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1a5c564f759f2548bd8f73ae1d352c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114322768592024542
 MonoBehaviour:
   m_ObjectHideFlags: 1
