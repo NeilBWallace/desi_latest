@@ -1,0 +1,769 @@
+{
+  "countries" : [
+    {
+      "id" : 1,
+      "code-alpha-2" : "Apple",
+      "code-alpha-3" : "Apples are packed with vitamins to help fights colds and germs and eating the skins gives us the fibre so we are less likely to get  diabetes and heart disease and helps us poo more easily.",
+      "foodgroup": "Fruits Carbohydrates/ Sugars",
+      "health": "3",
+      "strength": "2",
+      "smartness": "2",
+    },
+   {
+      "id" : 2,
+      "code-alpha-2" : "Apricot",
+      "code-alpha-3" : "Eating apricots help us grow and by looking after our bones , it has lots of vitamins, including vitamins A, C, K, E,  as well as fibre so we are less likely to get  diabetes and heart disease. It helps our tummy or our digestive system to poo more easily"
+      ,"foodgroup": "Fruits"
+     , "health": "2",
+      "strength": "1",
+      "smartness": "1",
+
+    },
+   {
+      "id" : 3,
+      "code-alpha-2" : "Asparagus",
+      "code-alpha-3" : "Asparagus is  great for vitamins, minerals that are important for building strong bones and teeth,  skin and  hair, it has lots of protein which helps repair our bodies when we are injured and build muscles  and  it also has fibre so we are less likely to get  diabetes and heart disease. It helps our tummy or our digestive system to poo more easily"
+   ,"foodgroup": "Vegetable"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 4,
+      "code-alpha-2" : "Avocado",
+      "code-alpha-3" : "Avocados are excellent for good fats so we are less likely to get heart disease. Avocados have lots of  vitamin E  so we are less likely to get  cancer and diabetes, "
+    ,"foodgroup": "Fruits"
+     , "health": "1",
+      "strength": "1",
+      "smartness": "2",
+    },
+  
+{
+      "id" : 5,
+      "code-alpha-2" : "Banana",
+      "code-alpha-3" : "Bananas are  packed with carbohydrates for energy and  potassium for a health heart and help prevent anxiety or stress "
+     ,"foodgroup": "Fruits"
+      , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  
+ {
+      "id" : 6,
+      "code-alpha-2" : "Beetroot",
+      "code-alpha-3" : "Beetroot has lots of  vitamin C  which is great it helps us to fight off infection.and it also has iron which helps our blood and can stop us feeling tired."
+   ,"foodgroup": "Vegetable"
+    , "health": "2",
+      "strength": "2",
+      "smartness": "2",
+    },
+  {
+      "id" : 7,
+      "code-alpha-2" : "Blackberries",
+      "code-alpha-3" : "Blackberries  help our body in many different ways and are packed with Vitamin C. The dark blue colour has something called antioxidants which protect us from serious health problems and they are delicious!"
+     ,"foodgroup": "Fruits"
+      , "health": "2",
+      "strength": "2",
+      "smartness": "1",
+    },
+  {
+      "id" : 8,
+      "code-alpha-2" : "Blueberries",
+      "code-alpha-3" : "Blue Berries, a superfood, full of vitamins to fight colds and flu, they are also high in something called antioxidants which help protect us from serious illnesses  like cancer and heart disease. So yummy!"
+    ,"foodgroup": "Fruits"
+     , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 9,
+      "code-alpha-2" : "Broccoli",
+      "code-alpha-3" : "Broccoli is super good , it has lots of fibre, vitamins, and iron, potassium, calcium, so it helps our tummys or digestive system, gives us lots of energy, helps our bones, stops us feeling tired, fights off colds and  helps us when are worried. Wow what a great vegetable! "
+    ,"foodgroup": "Vegetables"
+     , "health": "1",
+      "strength": "1",
+      "smartness": "1",
+    },
+  {
+      "id" : 10,
+      "code-alpha-2" : "Brussel Sprouts",
+      "code-alpha-3" : "Brussel Sprouts have antioxidants which can protect  us from having bad health, like cancer and heart disease. They are full of protein to help repair our bodies when we are hurt and they build muscles too.  They have lots of vitamins and minerals to support a healthy body and high fibre. No more consipation for me!"
+  ,"foodgroup": "Vegetable"
+   , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 11,
+      "code-alpha-2" : "Cabbage",
+      "code-alpha-3" : "Cabbage is from the Same family as broccoli, it has lots of fibre, vitamins, and iron, potassium, calcium, so it helps our tummys or digestive system, gives us lots of energy, helps our bones, stops us feeling tired, fights off colds and helps when we are worried"
+   ,"foodgroup": "Vegetable"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 12,
+      "code-alpha-2" : "Carrots",
+      "code-alpha-3" : "Carrots have something called beta carotene which the body changes into Vitamin A, we need vitamin A for healthy skin, to help our immune system to fight off colds and to have good healthy vision, I can SEE why we need this!"
+   ,"foodgroup": "Vegetable"
+    , "health": "1",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 13,
+      "code-alpha-2" : "Casserole",
+      "code-alpha-3" : "Casserole"
+   ,"foodgroup": "Mixed"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "4",
+    },
+   {
+      "id" : 14,
+      "code-alpha-2" : "Cauliflower",
+      "code-alpha-3" : "Cauliflower a super food, dadah!  so we are less likely to get  to get cancer or heart trouble,  helps fight Infections and is excellent for our brain.It is also good for our digestive system so we are less likely to get diabetes and heart  disease. Delicious especially with a bit of cheese"
+   ,"foodgroup": "Vegtable"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+  {
+      "id" : 15,
+      "code-alpha-2" : "Chapatti",
+      "code-alpha-3" : "Chapatti"
+   ,"foodgroup": "Breads"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+ {
+      "id" : 16,
+      "code-alpha-2" : "Cherries",
+      "code-alpha-3" : "Cherries"
+   ,"foodgroup": "Fruits"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+   {
+      "id" : 17,
+      "code-alpha-2" : "Chicken Nuggets",
+      "code-alpha-3" : "Chicken Nuggets"
+     ,"foodgroup": "Meat"
+      , "health": "1",
+      "strength": "2",
+      "smartness": "2",
+    },
+   {
+      "id" : 18,
+      "code-alpha-2" : "Cottage Pie",
+      "code-alpha-3" : "Cottage Pie"
+    ,"foodgroup": "Mixed"
+     , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+    {
+      "id" : 19,
+      "code-alpha-2" : "Courgette",
+      "code-alpha-3" : "Courgettes  are high in  fiber, so we are less likely to get  diabetes and heart disease, it helps us to poo more easily. It has vitamin C which fights colds and  potassium for a health heart and  stops us worrying. All from a little vegetable. wow! "
+    ,"foodgroup": "Vegetable"
+     , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+    {
+      "id" : 20,
+      "code-alpha-2" : "Crumpet",
+      "code-alpha-3" : "Crumpet"
+   ,"foodgroup": "Breads"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+  {
+      "id" : 21,
+      "code-alpha-2" : "Cucumber",
+      "code-alpha-3" : "Cucumbers contains lots of different B vitamins, This helps with our worries and protects us from  stress. It’s good for our digestion so we are less likely to get diabetes and heart disease and helps us poo more easily. Delicious in a sandwich."
+  ,"foodgroup": "Vegetable"
+   , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+  {
+      "id" : 22,
+      "code-alpha-2" : "Curry",
+      "code-alpha-3" : "Curry"
+   ,"foodgroup": "Mixed"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 23,
+      "code-alpha-2" : "Dates",
+      "code-alpha-3" : "Dates are sweet fruit brimming with vitamins, minerals and fibre. No too many though as they have lots of sunshine sugar in them"
+   ,"foodgroup": "Fruits"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+  {
+      "id" : 24,
+      "code-alpha-2" : "Fish cake",
+      "code-alpha-3" : "Fish cake"
+    ,"foodgroup": "Meat"
+     , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+  {
+      "id" : 25,
+      "code-alpha-2" : "Fruit Kebab",
+      "code-alpha-3" : "Fruit Kebab"
+    ,"foodgroup": "Fruits"
+     , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 26,
+      "code-alpha-2" : "Grapes",
+      "code-alpha-3" : "Grapes are good for our heart, eyes, brain, blood, and joints, eat the seeds and skin as they have lots of antioxidants which protect us from serious problems, like cancer and heart disease. And they are so much more tastier than sweets, yummy."
+    ,"foodgroup": "Fruits"
+     , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+   {
+      "id" : 27,
+      "code-alpha-2" : "Green beans",
+      "code-alpha-3" : "Green beans are high in fibre, helping us fight diabetes and heart disease and of course helps us poo more easily. It also has some protein which helps repair our bodies when we are hurt and they build muscles, and lots have of different vitamins and calcium for our bones and teeth. Wow they are great."
+   ,"foodgroup": "Vegetables"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+ {
+      "id" : 28,
+      "code-alpha-2" : "Jacket Potato",
+      "code-alpha-3" : "Jacket Potato"
+  ,"foodgroup": "Vegetables"
+   , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+ {
+      "id" : 29,
+      "code-alpha-2" : "Kale",
+      "code-alpha-3" : "Kale is high in fibre so it’s really good for our digestion, helping to fight diabetes and heart disease and of course it helps us poo more easily. It is filled with so many vitamins and minerals that are important for building strong bones and teeth, skin and hair. wow its so good for us!"
+ ,"foodgroup": "Vegetables"
+  , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 30,
+      "code-alpha-2" : "Kiwi",
+      "code-alpha-3" : "Kiwis are full of goodness, they help us to fight against heart disease and strokes and have more vitamin C than oranges – we need vitamin C to help fight colds and germ. It also has lots of fibre Fibre  so we are less likely to get diabetes and heart disease and helps us poo more easily. They are delicious too!"
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+ {
+      "id" : 31,
+      "code-alpha-2" : "Lasagne",
+      "code-alpha-3" : "Lasagne"
+   ,"foodgroup": "Mixed"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+{
+      "id" : 32,
+      "code-alpha-2" : "Leeks",
+      "code-alpha-3" : "Leeks are a phenomenal source of vitamins and Antioxidants so it protects us from lots of diseases. Who would have guessed."
+  ,"foodgroup": "Vegetables"
+   , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+{
+      "id" : 33,
+      "code-alpha-2" : "Lentils",
+      "code-alpha-3" : "Lentils are full of proteins vitamins and potassium, so they help repair our bodies, help our brains, give us energy. Go Lentils! "
+   ,"foodgroup": "Vegetables"
+    , "health": "3",
+      "strength": "2",
+      "smartness": "3",
+    },
+{
+      "id" : 34,
+      "code-alpha-2" : "Mango",
+      "code-alpha-3" : "Mangoes are filled with vitamins, minerals, fibre and antioxidants. So they protect us from lots of illnesses, keeps us fighting fit and they are so juicey!"
+    ,"foodgroup": "Fruits"
+     , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+  {
+      "id" : 35,
+      "code-alpha-2" : "Mash",
+      "code-alpha-3" : "Mash"
+    ,"foodgroup": "Vegetables"
+     , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 36,
+      "code-alpha-2" : "Meat Balls",
+      "code-alpha-3" : "Meat Balls"
+   ,"foodgroup": "Meat"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+ 
+  {
+      "id" : 37,
+      "code-alpha-2" : "Meat Kebab",
+      "code-alpha-3" : "Meat Kebab"
+   ,"foodgroup": "Meat"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 38,
+      "code-alpha-2" : "Melon",
+      "code-alpha-3" : "Melons are full of vitamin C and vitamin A, they help us fight colds, and keep our skin and teeth looking good. They have vitamin B to help our brain. I’ll soon be top of the class if I eat these."
+   ,"foodgroup": "Fruit"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+  {
+      "id" : 39,
+      "code-alpha-2" : "Mushrooms",
+      "code-alpha-3" : "Mushrooms have lots of Fibre, Protein and Vitamin C and D. They will help me poo easily, help my bones and teeth be strong and fight colds. I will smile when I eat these thanks to vitamin D"
+    ,"foodgroup": "Vegetables"
+     , "health": "2",
+      "strength": "4",
+      "smartness": "1",
+    },
+   {
+      "id" : 40,
+      "code-alpha-2" : "Naan",
+      "code-alpha-3" : "Naan"
+   ,"foodgroup": "Bread"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "4",
+    },
+{
+      "id" : 41,
+      "code-alpha-2" : "New Potatoes",
+      "code-alpha-3" : "New Potatoes"
+  ,"foodgroup": "Vegetables"
+   , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+{
+      "id" : 42,
+      "code-alpha-2" : "Noodles",
+      "code-alpha-3" : "Noodles"
+   ,"foodgroup": "Pasta"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+
+{
+      "id" : 43,
+      "code-alpha-2" : "Olives",
+      "code-alpha-3" : "Olives have healthy fat so they are good for our heart and they help protect us from cancer. A taste of holiday goodness, yaah!"
+  ,"foodgroup": "Vegetables"
+   , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+ 
+{
+      "id" : 44,
+      "code-alpha-2" : "Omellete",
+      "code-alpha-3" : "Omellete"
+    ,"foodgroup": "Meats"
+     , "health": "3",
+      "strength": "1",
+      "smartness": "2",
+    },
+
+{
+      "id" : 45,
+      "code-alpha-2" : "Oranges",
+      "code-alpha-3" : "Oranges are full of nutrients, especially vitamin C to fight those horrible colds. They are good for clear and healthy skin and can help stop us getting many diseases. Go oranges!"
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+   },
+  {
+      "id" : 46,
+      "code-alpha-2" : "Oven Chips",
+      "code-alpha-3" : "xyz"
+   ,"foodgroup": "Vegetables"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+  
+   {
+      "id" : 47,
+      "code-alpha-2" : "Parsnips",
+      "code-alpha-3" : "Parsnips  eaters are less likely to get diabetes and heart disease, its full of fibre helping us poo more easily. They help us grow and fight off illnesses and as they have lots of vitamin B they try to stop us feeling unhappy  Go parsnips!"
+    ,"foodgroup": "Vegetables"
+     , "health": "1",
+      "strength": "2",
+      "smartness": "1",
+    },
+    {
+      "id" : 48,
+      "code-alpha-2" : "Pasta",
+      "code-alpha-3" : "Pasta"
+   ,"foodgroup": "Pasta"
+    , "health": "1",
+      "strength": "2",
+      "smartness": "3",
+    },
+ {
+      "id" : 49,
+      "code-alpha-2" : "Peaches",
+      "code-alpha-3" : "Peaches have lots of goodness: antioxidant which protects from serious illnesses. Vitamin-C fights colds and flu. ß-carotene and vitamin A help you see in the dark and have beautiful teeth, skin and strong healthy bones. PEACHY! "
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "3",
+    },
+{
+      "id" : 50,
+      "code-alpha-2" : "Pears",
+      "code-alpha-3" : "Fibre  so we are less likely to get diabetes and heart disease and helps us poo more easily, antioxidants which help us to fight against serious illnesses and lots of  minerals, and vitamins to keep us in tiptop health."
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "1",
+    },
+    {
+      "id" : 51,
+      "code-alpha-2" : "Peas",
+      "code-alpha-3" : "Peas help us fight off illness and diseases as they have something called antioxidants and vitamins in them.  They are rich in B-vitamins, so they look after your brain, help you grow by keeping your bones strong. Keep your teeth and skin healthy. So much from such a little vegetable. Peassssss try and eat some. Haha!"
+   ,"foodgroup": "Vegetables"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "4",
+    },
+  {
+      "id" : 52,
+      "code-alpha-2" : "Peppers",
+      "code-alpha-3" : "• We have green, red and peppers that are full of vitamin A, B, C and antioxidants so they help look after your eyes, brain and fight against colds and horrible diseases. Red and Orange are much sweeter, why not try them with a dip, yum!"
+  ,"foodgroup": "Vegetables"
+   , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 53,
+      "code-alpha-2" : "Pineapple",
+      "code-alpha-3" : "Pineapples are full of antioxidant which helps fight serious illness. They have loads of minerals, vitamin C and beta-carotene, what a fab fruit, fighting off colds, building strong bones and teeth and helping us to see better, and delicious on top of a homemade pizza. Tasty "
+   ,"foodgroup": "Fruits"
+    , "health": "1",
+      "strength": "3",
+      "smartness": "2",
+    },
+ {
+      "id" : 54,
+      "code-alpha-2" : "Pitta",
+      "code-alpha-3" : "Pitta"
+   ,"foodgroup": "Bread"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 55,
+      "code-alpha-2" : "Plum",
+      "code-alpha-3" : "Plum Yummy, no bad fats, full of minerals and vitamins, especially vitamin C, and small enough to fit in a pack lunch box." 
+ ,"foodgroup": "Vegetable"
+  , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 56,
+      "code-alpha-2" : "Porridge",
+      "code-alpha-3" : "Porridge"
+     ,"foodgroup": "Porridge"
+      , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 57,
+      "code-alpha-2" : "Potatoes",
+      "code-alpha-3" : "Potatoes provide carbohydrates which gives us energy and potassium to help our heart and muscles, it also fuels our brain. the skins give us fibre and they are great with meals – jacket, mash, boiled, roasted and homemade chips. Not too many though as it can store in our body and turn to unwanted fat.   "
+     ,"foodgroup": "Vegetables"
+      , "health": "3",
+      "strength": "1",
+      "smartness": "2",
+    },
+  {
+      "id" : 58,
+      "code-alpha-2" : "Rasberries",
+      "code-alpha-3" : "Raspberries are full of vitamins, antioxidants, and fibre,  So they  are important for healthy bones, teeth and skin. They can fight against serious illnesses, coughs and colds and are less likely to get diabetes and heart disease and they helps us poo more easily "
+  ,"foodgroup": "Fruits"
+   , "health": "2",
+      "strength": "1",
+      "smartness": "2"
+    },
+    {
+      "id" : 59,
+      "code-alpha-2" : "Rhubarb",
+      "code-alpha-3" : "Rhubarb is full of minerals, vitamins and fibre so it is ideal for keeping our bodies healthy. It keeps our bones and teeth strong, fight off illness and keeps our digestion in good condition. So we are less likely to get diabetes and heart disease and helps us poo more easily. Rhubarb crumble with custard yummy"
+    ,"foodgroup": "Vegetables",
+      "health": "2",
+      "strength": "2",
+      "smartness": "1"
+    },
+   {
+      "id" : 60,
+      "code-alpha-2" : "Rice",
+      "code-alpha-3" : "Rice"
+    ,"foodgroup": "Grains",
+     "health": "2",
+      "strength": "3",
+      "smartness": "1"
+    },
+ {
+      "id" : 61,
+      "code-alpha-2" : "Roast Potatoes",
+      "code-alpha-3" : "Roast Potatoes"
+   ,"foodgroup": "Vegetables",
+     "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+{
+      "id" : 62,
+      "code-alpha-2" : "Salad",
+      "code-alpha-3" : "Salad"
+  ,"foodgroup": "Vegetables",
+    "health": "2",
+      "strength": "1",
+      "smartness": "2",
+
+    },
+    {
+      "id" : 63,
+      "code-alpha-2" : "Seeds",
+      "code-alpha-3" : "Seeds"
+  ,"foodgroup": "Grains"
+   , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+  {
+      "id" : 64,
+      "code-alpha-2" : "Shepherds Pie",
+      "code-alpha-3" : "Shepherds Pie"
+  ,"foodgroup": "Mixed"
+   , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+{
+      "id" : 65,
+      "code-alpha-2" : "Shreddies",
+      "code-alpha-3" : "Shreddies"
+    ,"foodgroup": "Grains"
+     , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+ 
+{
+      "id" : 66,
+      "code-alpha-2" : "Soup",
+      "code-alpha-3" : "Soup"
+    ,"foodgroup": "Mixed"
+     , "health": "2",
+      "strength": "2",
+      "smartness": "2",
+    },
+{
+      "id" : 68,
+      "code-alpha-2" : "Spaghetti Bolognaise",
+      "code-alpha-3" : "Spaghetti Bolognaise"
+  ,"foodgroup": "Mixed"
+   , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+{
+      "id" : 69,
+      "code-alpha-2" : "Spaghetti",
+      "code-alpha-3" : "Spaghetti"
+   ,"foodgroup": "Mixed"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+{
+      "id" : 70,
+      "code-alpha-2" : "Spinach",
+      "code-alpha-3" : "Spinach has lots of fibre and has lots of goodness like, vitamin K and  calcium for healthy bones, teeth and heart, vitamin C to fight colds, iron to stop us feeling tired. Try having it as a salad."
+   ,"foodgroup": "Vegetables"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+ {
+      "id" : 71,
+      "code-alpha-2" : "Vegetable Stir Fry",
+      "code-alpha-3" : "Vegetable Stir Fry"
+   ,"foodgroup": "Vegetables"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+  {
+      "id" : 72,
+      "code-alpha-2" : "Strawberry",
+      "code-alpha-3" : "Strawberries have antioxidants to help us fight serious illnesses, vitamins, to help fight colds, protect our brains, and help us grow strong and tall. They are good for a healthy heart. And full of fibre. Oh yeah they are good dipped in melted chocolate too. "
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "2",
+      "smartness": "2",
+    },
+  {
+      "id" : 73,
+      "code-alpha-2" : "Sweetcorn",
+      "code-alpha-3" : "Sweet corn is so cool, it has antioxidant which help fight serious illnesses like cancer and heart disease, it’s loaded with Fibre so we are less likely to get diabetes and heart disease and helps us poo more easily and helps give us healthy vision."
+   ,"foodgroup": "Vegetables"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+   {
+      "id" : 74,
+      "code-alpha-2" : "Toast",
+      "code-alpha-3" : "Toast"
+    ,"foodgroup": "Grains"
+     , "health": "2",
+      "strength": "3",
+      "smartness": "1",
+    },
+ {
+      "id" : 75,
+      "code-alpha-2" : "Tomatoes",
+      "code-alpha-3" : "Tomatoes have lots of  vitamin E to protect our bodies, Vitamin B6, to look after our brain. vitamin C to fight colds and flu Vitamin A for healthy bones teeth and skin and vitamin K for our heart and they come in all different shapes and sizes. Love them!!"
+   ,"foodgroup": "Fruits"
+    , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    },
+   {
+      "id" : 76,
+      "code-alpha-2" : "Turkey",
+      "code-alpha-3" : "Turkey"
+   ,"foodgroup": "Meat"
+    , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+ {
+      "id" : 77,
+      "code-alpha-2" : "Vegetable Curry",
+      "code-alpha-3" : "Vegetable Curry"
+  ,"foodgroup": "Vegetables"
+   , "health": "2",
+      "strength": "2",
+      "smartness": "2",
+    },
+ 
+{
+      "id" : 78,
+      "code-alpha-2" : "Vegetable Kebab",
+      "code-alpha-3" : "Vegetable Kebab"
+   ,"foodgroup": "Vegetables"
+    , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+{
+      "id" : 79,
+      "code-alpha-2" : "Vegetarian Pizza",
+      "code-alpha-3" : "Vegetarian Pizza"
+  ,"foodgroup": "Mixed"
+   , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+
+ {
+      "id" : 80,
+      "code-alpha-2" : "Vegetarian Burger",
+      "code-alpha-3" : "Vegetarian Burger"
+    ,"foodgroup": "Vegetables"
+     , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+  {
+      "id" : 81,
+      "code-alpha-2" : "Weetabix",
+      "code-alpha-3" : "Weetabix"
+    ,"foodgroup": "Pulses"
+     , "health": "2",
+      "strength": "2",
+      "smartness": "3",
+    },
+  {
+      "id" : 82,
+      "code-alpha-2" : "Wholemeal Bread",
+      "code-alpha-3" : "Wholemeal Bread"
+  ,"foodgroup": "Grains"
+   , "health": "2",
+      "strength": "3",
+      "smartness": "2",
+    },
+ 
+{
+      "id" : 83,
+      "code-alpha-2" : "Wrap",
+      "code-alpha-3" : "Wrap"
+   ,"foodgroup": "Grains"
+    , "health": "2",
+      "strength": "2",
+      "smartness": "2",
+    },
+{
+      "id" : 84,
+      "code-alpha-2" : "Yam",
+      "code-alpha-3" : "Yam"
+    ,"foodgroup": "Vegetables"
+     , "health": "2",
+      "strength": "1",
+      "smartness": "2",
+    }
+ 
+ 
+
+
+
+  ]
+}

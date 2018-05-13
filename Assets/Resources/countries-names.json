@@ -1,0 +1,339 @@
+{
+  "1" : {
+    "EN" : "Apple",
+    "PT" : "Afeganistão"
+  },
+  "2" : {
+    "EN" : "Apricot",
+    "PT" : "Albania"
+  },
+  "3" : {
+    "EN" : "Asparagus",
+    "PT" : "Antartida"
+  },
+  "4" : {
+    "EN" : "Avocado",
+    "PT" : "Algeria"
+  },
+  "5" : {
+    "EN" : "Banana",
+    "PT" : "Samoa américaines (les)"
+  },
+  "6" : {
+    "EN" : "Beetroot",
+    "PT" : "Andorra"
+  },
+  "7" : {
+    "EN" : "Blackberries",
+    "PT" : "Angola"
+  },
+  "8" : {
+    "EN" : "Blueberries",
+    "PT" : "Antigua-et-Barbuda"
+  },
+  "9" : {
+    "EN" : "Broccoli",
+    "PT" : "Azerbaïdjan (l')"
+  },
+  "10" : {
+    "EN" : "Brussel Sprouts",
+    "PT" : "Argentine (l')"
+  },
+  "11" : {
+    "EN" : "Cabbage",
+    "PT" : "Australie (l')"
+  },
+  "12" : {
+    "EN" : "Carrots",
+    "PT" : "Autriche (l')"
+  },
+  "13" : {
+    "EN" : "Casserole",
+    "PT" : "Bahamas (les)"
+  },
+  "14" : {
+    "EN" : "Cauliflower",
+    "PT" : "Bahreïn"
+  },
+  "15" : {
+    "EN" : "Chapatti",
+    "PT" : "Bangladesh (le)"
+  },
+  "16" : {
+    "EN" : "Cherries",
+    "PT" : "Arménie (l')"
+  },
+  "17" : {
+    "EN" : "Chicken Nuggets",
+    "PT" : "Barbade (la)"
+  },
+  "18" : {
+    "EN" : "Cottage Pie",
+    "PT" : "Belgique (la)"
+  },
+  "19" : {
+    "EN" : "Courgette",
+    "PT" : "Bermudes (les)"
+  },
+  "20" : {
+    "EN" : "Crumpet",
+    "PT" : "Bhoutan (le)"
+  },
+  "21" : {
+    "EN" : "Cucumber",
+    "PT" : "Bolivie (État plurinational de)"
+  },
+  "22" : {
+    "EN" : "Curry",
+    "PT" : "Bosnie-Herzégovine (la)"
+  },
+  "23" : {
+    "EN" : "Dates",
+    "PT" : "Botswana (le)"
+  },
+  "24" : {
+    "EN" : "Fish cake",
+    "PT" : "Bouvet (l'Île)"
+  },
+  "25" : {
+    "EN" : "Fruit Kebab",
+    "PT" : "Brésil (le)"
+  },
+  "26" : {
+    "EN" : "Grapes",
+    "PT" : "Belize (le)"
+  },
+  "27" : {
+    "EN" : "Green beans",
+    "PT" : "Indien (le Territoire britannique de l'océan)"
+  },
+  "28" : {
+    "EN" : "Jacket Potato",
+    "PT" : "Salomon (Îles)"
+  },
+  "29" : {
+    "EN" : "Kale",
+    "PT" : "Vierges britanniques (les Îles)"
+  },
+  "30" : {
+    "EN" : "Kiwi",
+    "PT" : "Brunéi Darussalam (le)"
+  },
+  "31" : {
+    "EN" : "Lasagne",
+    "PT" : "Bulgarie (la)"
+  },
+  "32" : {
+    "EN" : "Leeks",
+    "PT" : "Myanmar (le)"
+  },
+  "33" : {
+    "EN" : "Lentils",
+    "PT" : "Burundi (le)"
+  },
+  "34" : {
+    "EN" : "Mango",
+    "PT" : "Bélarus (le)"
+  },
+  "35" : {
+    "EN" : "Mash",
+    "PT" : "Cambodge (le)"
+  },
+  "36" : {
+    "EN" : "Meat Balls",
+    "PT" : "Cameroun (le)"
+  },
+  "37" : {
+    "EN" : "Meat Kebab",
+    "PT" : "Canada (le)"
+  },
+  "38" : {
+    "EN" : "Melon",
+    "PT" : "Cabo Verde"
+  },
+  "39" : {
+    "EN" : "Mushrooms",
+    "PT" : "Caïmans (les Îles)"
+  },
+  "40" : {
+    "EN" : "Naan",
+    "PT" : "République centrafricaine (la)"
+  },
+  "41" : {
+    "EN" : "New Potatoes",
+    "PT" : "Sri Lanka"
+  },
+  "42" : {
+    "EN" : "Noodles",
+    "PT" : "Tchad (le)"
+  },
+  "43" : {
+    "EN" : "Olives",
+    "PT" : "Chili (le)"
+  },
+  "44" : {
+    "EN" : "Omellete",
+    "PT" : "Chine (la)"
+  },
+  "45" : {
+    "EN" : "Oranges",
+    "PT" : "Taïwan (Province de Chine)"
+  },
+  "46" : {
+    "EN" : "Oven Chips",
+    "PT" : "Christmas (l'Île)"
+  },
+  "47" : {
+    "EN" : "Parsnips",
+    "PT" : "Cocos (les Îles)/ Keeling (les Îles)"
+  },
+  "48" : {
+    "EN" : "Pasta",
+    "PT" : "Colombie (la)"
+  },
+  "49" : {
+    "EN" : "Peaches",
+    "PT" : "Comores (les)"
+  },
+  "50" : {
+    "EN" : "Pears",
+    "PT" : "Mayotte"
+  },
+  "51" : {
+    "EN" : "Peas",
+    "PT" : "Congo (le)"
+  },
+  "52" : {
+    "EN" : "Peppers",
+    "PT" : "Congo (la République démocratique du)"
+  },
+  "53" : {
+    "EN" : "Pineapple",
+    "PT" : "Cook (les Îles)"
+  },
+  "54" : {
+    "EN" : "Pitta",
+    "PT" : "Costa Rica (le)"
+  },
+  "55" : {
+    "EN" : "Plum",
+    "PT" : "Croatie (la)"
+  },
+  "56" : {
+    "EN" : "Porridge",
+    "PT" : "Cuba"
+  },
+  "57" : {
+    "EN" : "Potatoes",
+    "PT" : "Chypre"
+  },
+  "58" : {
+    "EN" : "Rasberries",
+    "PT" : "Tchéquie (la)"
+  },
+  "59" : {
+    "EN" : "Rhubarb",
+    "PT" : "Bénin (le)"
+  },
+  "60" : {
+    "EN" : "Rice",
+    "PT" : "Danemark (le)"
+  },
+  "61" : {
+    "EN" : "Roast Potatoes",
+    "PT" : "Dominique (la)"
+  },
+  "62" : {
+    "EN" : "Salad",
+    "PT" : "dominicaine (la République)"
+  },
+  "63" : {
+    "EN" : "Seeds",
+    "PT" : "Équateur (l')"
+  },
+  "64" : {
+    "EN" : "Shepherds Pie",
+    "PT" : "El Salvador"
+  },
+  "65" : {
+    "EN" : "Shreddies",
+    "PT" : "Guinée équatoriale (la)"
+  },
+  "66" : {
+    "EN" : "Soup",
+    "PT" : "Éthiopie (l')"
+  },
+  "67" : {
+    "EN" : "Eritrea",
+    "PT" : "Érythrée (l')"
+  },
+  "68" : {
+    "EN" : "Spaghetti Bolognaise",
+    "PT" : "Estonie (l')"
+  },
+  "69" : {
+    "EN" : "Spaghetti",
+    "PT" : "Féroé (les Îles)"
+  },
+  "70" : {
+    "EN" : "Spinach",
+    "PT" : "Falkland (les Îles)/Malouines (les Îles)"
+  },
+  "71" : {
+    "EN" : "Vegetable Stir Fry",
+    "PT" : "Géorgie du Sud-et-les Îles Sandwich du Sud (la)"
+  },
+  "72" : {
+    "EN" : "Strawberry",
+    "PT" : "Fidji (les)"
+  },
+  "73" : {
+    "EN" : "Sweetcorn",
+    "PT" : "Finlande (la)"
+  },
+  "74" : {
+    "EN" : "Toast",
+    "PT" : "Ilhas Aland"
+  },
+  "75" : {
+    "EN" : "Tomatoes",
+    "PT" : "France (la)"
+  },
+  "76" : {
+    "EN" : "Turkey",
+    "PT" : "Guyane française (la )"
+  },
+  "77" : {
+    "EN" : "Vegetable Curry",
+    "PT" : "Polynésie française (la)"
+  },
+  "78" : {
+    "EN" : "Vegetable Kebab",
+    "PT" : "Terres australes françaises (les)"
+  },
+  "79" : {
+    "EN" : "Vegetarian Pizza",
+    "PT" : "Djibouti"
+  },
+  "80" : {
+    "EN" : "Vegetarian Burger",
+    "PT" : "Gabon (le)"
+  },
+  "81" : {
+    "EN" : "Weetabix",
+    "PT" : "Géorgie (la)"
+  },
+  "82" : {
+    "EN" : "Wholemeal Bread",
+    "PT" : "Gambie (la)"
+  },
+  "83" : {
+    "EN" : "Wrap",
+    "PT" : "Palestine, État de"
+  },
+  "84" : {
+    "EN" : "Yam",
+    "PT" : "Allemagne (l')"
+  }
+  
+}
