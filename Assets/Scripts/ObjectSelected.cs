@@ -22,8 +22,10 @@ public class ObjectSelected : MonoBehaviour {
 
 
 
-				if ((hit.transform.name != "Terrain") || hit.transform.name.Contains("Rock")){
+				if (hit.transform.tag =="Food"){
 
+
+				
 					GameObject.Find ("Food_Sound").GetComponent<AudioSource> ().Play ();
 
 
@@ -51,9 +53,9 @@ public class ObjectSelected : MonoBehaviour {
 		//					g = GameObject.Find ("smartness").GetComponent<Text> ();
 		//			g.text =GameObject.Find (hit.transform.name).GetComponent<stats>().smartness.ToString();
 
-						g = GameObject.Find ("food_group").GetComponent<Text> ();
-					g.text =GameObject.Find (hit.transform.name).GetComponent<stats>().food_group.ToString();
-
+				//		g = GameObject.Find ("food_group").GetComponent<Text> ();
+		//			g.text =GameObject.Find (hit.transform.name).GetComponent<stats>().food_group.ToString();
+					t.text = t.text + "(" + GameObject.Find (hit.transform.name).GetComponent<stats> ().food_group.ToString () + ")";
 				}
 			}
 		}
