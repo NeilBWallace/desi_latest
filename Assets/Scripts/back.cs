@@ -4,33 +4,34 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class back : MonoBehaviour {
-	[SerializeField]
-	private GameObject food_panel;
-
-	[SerializeField]
-	private GameObject eat_food_panel;
+	
 
 
-	public Button yourbutton;
-	// Use this for initialization
-	void Start () {
-		Button btn = yourbutton.GetComponent<Button> ();
-		btn.onClick.AddListener (TaskOnClick);
-	}
 
-	void TaskOnClick()
+	public void Back()
 	{
 
 		Time.timeScale = 1f;
-	//	GameObject.Find ("Back").GetComponent<AudioSource> ().Play ();
 
-		Debug.Log ("you clicked");
-	//	Opening_Values.move = 1;
+		GameObject[] objs;
+		objs = GameObject.FindGameObjectsWithTag ("Good_Food");
+		foreach (GameObject o in objs) {
+			GameObject.Find (o.name ).GetComponent<AudioSource> ().Stop ();
+		}
+
+		objs = GameObject.FindGameObjectsWithTag ("Bad_Food");
+		foreach (GameObject o in objs) {
+			GameObject.Find (o.name ).GetComponent<AudioSource> ().Stop ();	
+		}
+
+
+	GameObject.Find ("Back").GetComponent<AudioSource> ().Play ();
+
+	
 
 		CanvasGroup c =GameObject.Find("Food_Panel").GetComponent<CanvasGroup> ();
 		c.alpha = 0;
-		c =GameObject.Find("Eat_Food_Panel").GetComponent<CanvasGroup> ();
-		c.alpha = 0;
+	
 
 	
 	}

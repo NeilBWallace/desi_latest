@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Food
+  - Enemy
+  - Good_Food
+  - Bad_Food
   layers:
   - Default
   - TransparentFX
