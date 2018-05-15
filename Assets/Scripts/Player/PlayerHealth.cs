@@ -105,7 +105,7 @@ namespace CompleteProject
         public void RestartLevel ()
         {
             // Reload the level that is currently loaded.
-            SceneManager.LoadScene (0);
+		//	UnityEngine.SceneManagement.LoadScene (0);
         }
     }
 }

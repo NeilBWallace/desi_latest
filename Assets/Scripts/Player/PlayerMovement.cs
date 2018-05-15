@@ -7,7 +7,7 @@ namespace CompleteProject
     {
         public float speed = 6f;            // The speed that the player will move at.
 
-
+		Animation a;
         Vector3 movement;                   // The vector to store the direction of the player's movement.
         Animator anim;                      // Reference to the animator component.
         Rigidbody playerRigidbody;          // Reference to the player's rigidbody.
@@ -24,6 +24,7 @@ namespace CompleteProject
 #endif
 
             // Set up references.
+			a = GetComponent<Animation>();
             anim = GetComponent <Animator> ();
             playerRigidbody = GetComponent <Rigidbody> ();
         }
@@ -35,6 +36,13 @@ namespace CompleteProject
             float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
             float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
 
+			if ((h != 0) || (v != 0)) {
+				Debug.Log ("sdf");
+				a.Play ("Desi_stand");
+
+			} else {
+				a.Stop ("Desi_stand");
+			}
             // Move the player around the scene.
             Move (h, v);
 
@@ -46,8 +54,13 @@ namespace CompleteProject
         }
 
 
+
+
+
         void Move (float h, float v)
         {
+
+
             // Set the movement vector based on the axis input.
             movement.Set (h, 0f, v);
             
@@ -56,21 +69,36 @@ namespace CompleteProject
 
             // Move the player to it's current position plus the movement.
             playerRigidbody.MovePosition (transform.position + movement);
+
+
+
+		//	 transform.Rotate(0, Input.GetAxis("Horizontal")*speed*Time.deltaTime, 0);
+
         }
 
 
         void Turning ()
         {
 #if !MOBILE_INPUT
+
+		
+
             // Create a ray from the mouse cursor on screen in the direction of the camera.
             Ray camRay = Camera.main.ScreenPointToRay (Input.mousePosition);
 
             // Create a RaycastHit variable to store information about what was hit by the ray.
             RaycastHit floorHit;
 
+
+		
             // Perform the raycast and if it hits something on the floor layer...
-            if(Physics.Raycast (camRay, out floorHit, camRayLength, floorMask))
-            {
+           if(Physics.Raycast (camRay, out floorHit, camRayLength, floorMask))
+			{
+		//	if(Physics.Raycast (camRay, out floorHit, camRayLength))
+        //    {
+
+
+
                 // Create a vector from the player to the point on the floor the raycast from the mouse hit.
                 Vector3 playerToMouse = floorHit.point - transform.position;
 

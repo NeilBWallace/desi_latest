@@ -9,13 +9,13 @@
 //
 // Please direct any bugs/comments/suggestions to geteamdev@gmail.com
 
-#region Namespaces
+
 
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-#endregion // Namespaces
+
 
 // ######################################################################
 // GA_FREE_Demo00 class
