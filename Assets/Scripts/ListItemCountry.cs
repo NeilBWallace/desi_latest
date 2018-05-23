@@ -36,7 +36,7 @@ public class ListItemCountry : ListItemBase
 
 		if(_sprite != null)
 		{
-			Resources.UnloadAsset (_sprite.texture);
+	//		Resources.UnloadAsset (_sprite.texture);
 		}
 
 		_sprite = Resources.Load<Sprite> ("flags/" + text.ToLower ());

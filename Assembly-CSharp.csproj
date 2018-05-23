@@ -117,6 +117,7 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
+     <Compile Include="Assets\Scripts\add_food.cs" />
      <Compile Include="Assets\Scripts\Audio\MixLevels.cs" />
      <Compile Include="Assets\Scripts\back.cs" />
      <Compile Include="Assets\Scripts\background.cs" />
@@ -162,8 +163,11 @@
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerManager.cs" />
      <Compile Include="Assets\Scripts\PlayerMotor.cs" />
+     <Compile Include="Assets\Scripts\PlayGame.cs" />
      <Compile Include="Assets\Scripts\SceneMan.cs" />
+     <Compile Include="Assets\Scripts\SceneMan1.cs" />
      <Compile Include="Assets\Scripts\ShowDesi.cs" />
+     <Compile Include="Assets\Scripts\startup.cs" />
      <Compile Include="Assets\Scripts\stats.cs" />
      <Compile Include="Assets\Scripts\StrengthScript.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />

@@ -1,5 +1,7 @@
 C:\desi_try\Temp\bin\Debug\Assembly-CSharp-Editor.dll
 C:\desi_try\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\desi_try\Temp\bin\Debug\GETween.dll
+C:\desi_try\Temp\bin\Debug\GUIAnimatorFREE.dll
 C:\desi_try\Temp\bin\Debug\nunit.framework.dll
 C:\desi_try\Temp\bin\Debug\UnityEditor.Advertisements.dll
 C:\desi_try\Temp\bin\Debug\UnityEditor.Analytics.dll
@@ -67,5 +69,3 @@ C:\desi_try\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
 C:\desi_try\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
 C:\desi_try\obj\Debug\Assembly-CSharp-Editor.dll
 C:\desi_try\obj\Debug\Assembly-CSharp-Editor.pdb
-C:\desi_try\Temp\bin\Debug\GETween.dll
-C:\desi_try\Temp\bin\Debug\GUIAnimatorFREE.dll

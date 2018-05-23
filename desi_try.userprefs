@@ -1,23 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ListController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\startup.cs">
     <Files>
-      <File FileName="Assets\Scripts\Managers\ScoreManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PlayerMotor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ChooseFood.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\choose_the_food.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\choose_Food.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\startup.cs" Line="19" Column="45" />
+      <File FileName="Assets\Scripts\ListItemCountry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ListControllerTest.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ObjectSelected.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\add_food.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Opening_Values.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Eat_Item.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\back.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Managers\GameOverManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Managers\PauseManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\GUI Animator\GUI Animator FREE\Demo\Scripts\GA_FREE_Demo00.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player\PlayerHealth.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PlayerManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ListController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ListItemBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneMan1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayGame.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
