@@ -17,7 +17,7 @@ public class GalleryControllerTest : MonoBehaviour
 	{
 		_list.onItemLoaded = HandleOnItemLoadedHandler;
 
-		_list.Create (30, _listItem);
+		_list.Create (10, _listItem);
 		_list.gameObject.SetActive (true);
 	}
 

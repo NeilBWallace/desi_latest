@@ -44,36 +44,9 @@ public class Country
 	private const string KEY_ID = "id";
 	private const string KEY_CODE_ALPHA_2 = "code-alpha-2";
 	private const string KEY_CODE_ALPHA_3 = "code-alpha-3";
-	private const string FOODGROUPS = "foodgroup";
-	private const string HEALTH = "health";
-	private const string STRENGTH = "strength";
-	private const string SMARTNESS= "smartness";
+
 
 	public int Id
-	{
-		get;
-		set;
-	}
-
-	public string Health
-	{
-		get;
-		set;
-	}
-
-	public string Strength
-	{
-		get;
-		set;
-	}
-
-	public string Smartness
-	{
-		get;
-		set;
-	}
-
-	public string FoodGroups
 	{
 		get;
 		set;
@@ -99,17 +72,12 @@ public class Country
 		Id = (int)json.GetField(KEY_ID).i;
 		CodeAlpha2 = json.GetField(KEY_CODE_ALPHA_2).str;
 		CodeAlpha3 = json.GetField(KEY_CODE_ALPHA_3).str;
-		FoodGroups = json.GetField(FOODGROUPS).str;
-		Health = json.GetField(HEALTH).str;
-		Strength = json.GetField(STRENGTH).str;
-		Smartness = json.GetField(SMARTNESS).str;
-
 	}
 
 
 	public override string ToString ()
 	{
-		return string.Format ("[Country: Id={0}, CodeAlpha2={1}, CodeAlpha3={2}, Name={3}, FoodGroups={4},Health={5},Strength={6},Smartness={7}]", Id, CodeAlpha2, CodeAlpha3, Name,FoodGroups,Health,Strength,Smartness);
+		return string.Format ("[Country: Id={0}, CodeAlpha2={1}, CodeAlpha3={2}, Name={3}]", Id, CodeAlpha2, CodeAlpha3, Name);
 	}
 }
 
@@ -163,9 +131,6 @@ public class Countries
 	private static Dictionary<string, Country> GetDictionary()
 	{
 		Dictionary<string, Country> result = new Dictionary<string, Country> ();
-		Dictionary<string, Country> description = new Dictionary<string, Country> ();
-
-
 
 		Dictionary<int, CountryName> names = LoadCountryNames ();
 
@@ -174,7 +139,7 @@ public class Countries
 		for (int i = 0; i < json.list.Count; i++)
 		{
 			Country country = new Country (json.list [i]);
-			country.Name = names [country.Id].Names ["EN"] ;  
+			country.Name = names [country.Id].Names ["EN"];
 
 			result.Add (country.CodeAlpha2, country);
 		}
@@ -183,9 +148,6 @@ public class Countries
 
 		return result;
 	}
-
-
-
 
 	private static Dictionary<int, CountryName> LoadCountryNames()
 	{

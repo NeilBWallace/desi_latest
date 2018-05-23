@@ -144,7 +144,7 @@
      <Compile Include="Assets\Scripts\Item.cs" />
      <Compile Include="Assets\Scripts\ItemPickup.cs" />
      <Compile Include="Assets\Scripts\List.cs" />
-     <Compile Include="Assets\Scripts\ListController.cs" />
+     <Compile Include="Assets\Scripts\ListControllerTest.cs" />
      <Compile Include="Assets\Scripts\ListItemBase.cs" />
      <Compile Include="Assets\Scripts\ListItemCountry.cs" />
      <Compile Include="Assets\Scripts\ListItemMovie.cs" />

@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SceneMan.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ListController.cs">
     <Files>
       <File FileName="Assets\Scripts\Managers\ScoreManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PlayerMotor.cs" Line="1" Column="1" />
@@ -14,10 +14,10 @@
       <File FileName="Assets\Scripts\back.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Managers\GameOverManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Managers\PauseManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\GUI Animator\GUI Animator FREE\Demo\Scripts\GA_FREE_Demo00.cs" Line="90" Column="1" />
-      <File FileName="Assets\Scripts\Player\PlayerHealth.cs" Line="108" Column="1" />
-      <File FileName="Assets\Scripts\PlayerManager.cs" Line="25" Column="1" />
-      <File FileName="Assets\SceneMan.cs" Line="10" Column="2" />
+      <File FileName="Assets\GUI Animator\GUI Animator FREE\Demo\Scripts\GA_FREE_Demo00.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ListController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

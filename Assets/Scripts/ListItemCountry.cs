@@ -32,7 +32,7 @@ public class ListItemCountry : ListItemBase
 
 	public void SetCode(string text)
 	{
-		//_labelCode.text = text;
+		_labelCode.text = text;
 
 		if(_sprite != null)
 		{
@@ -46,6 +46,6 @@ public class ListItemCountry : ListItemBase
 
 	public void Select(bool selected)
 	{
-		_label.color = selected ? Color.green : Color.white;
+		_label.color = selected ? Color.green : Color.black;
 	}
 }
