@@ -19,9 +19,12 @@ namespace CompleteProject
 
 		void Update ()
 		{
-
-			if (ScoreManager.score == 4) {
-				Application.LoadLevel (1);
+			if (Application.loadedLevelName == "parental_setup") {
+				if (ScoreManager.score == Opening_Values.foods_chosen) {	
+					Application.LoadLevel (4);
+				} 
+			}else if (ScoreManager.score == 4) {
+				Application.LoadLevel (4);
 			}
 
 			// If the player has run out of health...

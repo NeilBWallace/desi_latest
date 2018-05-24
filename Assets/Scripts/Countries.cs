@@ -45,7 +45,7 @@ public class Country
 	private const string KEY_CODE_ALPHA_2 = "code-alpha-2";
 	private const string KEY_CODE_ALPHA_3 = "code-alpha-3";
 
-
+	private const string KEY_FOODGROUP= "foodgroup";
 	public int Id
 	{
 		get;
@@ -57,6 +57,12 @@ public class Country
 		get;
 		set;
 	}
+	public string Foodgroup
+	{
+		get;
+		set;
+	}
+
 
 	public string CodeAlpha3
 	{
@@ -72,12 +78,13 @@ public class Country
 		Id = (int)json.GetField(KEY_ID).i;
 		CodeAlpha2 = json.GetField(KEY_CODE_ALPHA_2).str;
 		CodeAlpha3 = json.GetField(KEY_CODE_ALPHA_3).str;
+Foodgroup = json.GetField(KEY_FOODGROUP).str;
 	}
 
 
 	public override string ToString ()
 	{
-		return string.Format ("[Country: Id={0}, CodeAlpha2={1}, CodeAlpha3={2}, Name={3}]", Id, CodeAlpha2, CodeAlpha3, Name);
+		return string.Format ("[Country: Id={0}, CodeAlpha2={1}, CodeAlpha3={2}, Name={3}]", Id, CodeAlpha2, CodeAlpha3, Name,Foodgroup);
 	}
 }
 

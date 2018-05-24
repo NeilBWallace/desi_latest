@@ -13,21 +13,33 @@ public class add_food : MonoBehaviour {
 		string fc = "Image" + Opening_Values.foods_chosen;
 
 		Debug.Log ("fc" + fc);
-	 	i = GameObject.Find (fc).GetComponent<Image> ();
+		i = GameObject.Find (fc).GetComponent<Image> ();
 
 
-			i.sprite = Resources.Load<Sprite> ("flags/" + Opening_Values.selectedfood);
-	//	i.
-	//	Debug.Log ("add food");
+
+		//	Opening_Values.FoodObjsp[ = new GameObject[Opening_Values.foods_chosen];
+
+		//	Opening_Values.FoodObjs[Opening_Values.foods_chosen].name = Opening_Values.selectedfood;
+		Opening_Values.foodObjs[Opening_Values.foods_chosen]= Opening_Values.selectedfood;
+		Opening_Values.foodDescriptions[Opening_Values.foods_chosen]= Opening_Values.selectedfoodfd;
+
+
+
+		Opening_Values.foodGroup[Opening_Values.foods_chosen]= Opening_Values.selectedfoodfoodgroup;
+
+		i.sprite = Resources.Load<Sprite> ("flags/" + Opening_Values.selectedfood);
+		//	i.
+		//	Debug.Log ("add food");
 	}
 
 	// Use this for initialization
 	void Start () {
-		
+
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 }
+

@@ -4,7 +4,7 @@ public class ItemPickup : Interactable {
 
 //	[SerializeField]
 //	public GameObject eat_food_panel;
-
+	private AudioSource[] allAudioSources;
 	[SerializeField]
 public Text name;
 
@@ -45,9 +45,6 @@ public Text name;
 	// Pick up the item
 	void PickUp ()
 	{
-
-		GameObject.Find ("Food_Sound").GetComponent<AudioSource> ().Play ();
-	
 
 		Debug.Log ("2222");
 		Debug.Log ("pickupp" + gameObject.name);

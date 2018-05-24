@@ -17,9 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/main.unity
     guid: 0e4c64d67a36def418bc99862f920893
-  - enabled: 0
-    path: Assets/scene2.unity
-    guid: a2ad95ebb4fd17a4b8de993fedee5d80
   - enabled: 1
     path: Assets/parental_setup.unity
     guid: 9836c40f99ff34249808cc2d41732fee
+  - enabled: 1
+    path: Assets/scene2.unity
+    guid: a2ad95ebb4fd17a4b8de993fedee5d80
