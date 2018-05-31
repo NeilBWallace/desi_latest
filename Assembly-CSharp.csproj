@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CAB15097-52F0-8B85-64FB-7B1229B8167F}</ProjectGuid>
+    <ProjectGuid>{3359E726-4132-DD7E-9A58-0F8A0474A1BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DefaultPlayables\LightControl\LightControlBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\LightControl\LightControlClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\LightControl\LightControlMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\LightControl\LightControlTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\NavMeshAgentControl\NavMeshAgentControlBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\NavMeshAgentControl\NavMeshAgentControlClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\NavMeshAgentControl\NavMeshAgentControlMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\NavMeshAgentControl\NavMeshAgentControlTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\ScreenFader\ScreenFaderBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\ScreenFader\ScreenFaderClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\ScreenFader\ScreenFaderMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\ScreenFader\ScreenFaderTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\TextSwitcher\TextSwitcherBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TextSwitcher\TextSwitcherClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\TextSwitcher\TextSwitcherMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TextSwitcher\TextSwitcherTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\TimeDilation\TimeDilationBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TimeDilation\TimeDilationClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\TimeDilation\TimeDilationMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TimeDilation\TimeDilationTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\TransformTween\TransformTweenBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TransformTween\TransformTweenClip.cs" />
+     <Compile Include="Assets\DefaultPlayables\TransformTween\TransformTweenMixerBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\TransformTween\TransformTweenTrack.cs" />
+     <Compile Include="Assets\DefaultPlayables\Video\VideoPlayableBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\Video\VideoSchedulerPlayableBehaviour.cs" />
+     <Compile Include="Assets\DefaultPlayables\Video\VideoScriptPlayableAsset.cs" />
+     <Compile Include="Assets\DefaultPlayables\Video\VideoScriptPlayableTrack.cs" />
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo Basic\Scripts\GUIAnimatorFREEDemo.cs" />
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo\Scripts\GA_FREE_Demo00.cs" />
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo\Scripts\GA_FREE_Demo01.cs" />
@@ -73,6 +101,8 @@
      <Compile Include="Assets\MobileInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
      <Compile Include="Assets\MobileInput\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\Mountain Terrain\Misc\CameraDefault.cs" />
+     <Compile Include="Assets\PlaySnow.cs" />
+     <Compile Include="Assets\PlaySnow2.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -142,6 +172,7 @@
      <Compile Include="Assets\Scripts\Helpers\RandomParticlePoint.cs" />
      <Compile Include="Assets\Scripts\Helpers\VolumeHandler.cs" />
      <Compile Include="Assets\Scripts\Interactable.cs" />
+     <Compile Include="Assets\Scripts\Intro.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
      <Compile Include="Assets\Scripts\ItemPickup.cs" />
      <Compile Include="Assets\Scripts\List.cs" />
@@ -171,6 +202,8 @@
      <Compile Include="Assets\Scripts\stats.cs" />
      <Compile Include="Assets\Scripts\StrengthScript.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Winter Zone Mini 1.0\Scripts\EmitterPositionController.cs" />
+     <Compile Include="Assets\Winter Zone Mini 1.0\Scripts\FXDemoController.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\JSONObject\readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
@@ -186,15 +219,18 @@
      <None Include="Assets\Fruit Pack\Shaders\ToonLitTransparent.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
+     <None Include="Assets\laxer tree pkg\README.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
+     <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
      <None Include="Assets\Fruit Pack\Shaders\ToonLit.shader" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+     <None Include="Assets\Winter Zone Mini 1.0\readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
@@ -221,6 +257,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
      <None Include="Assets\FoodAndGrocery\Info.txt" />
+     <None Include="Assets\Mushroom house\StandardDoubleSided.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -288,10 +325,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/desi_try/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/desi_try - Copy/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/desi_try/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/desi_try - Copy/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/WallaceN/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

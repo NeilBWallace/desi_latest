@@ -8,7 +8,7 @@ public class PlayGame : MonoBehaviour {
 
 
 	public void PlayGames(){
-		SceneManager.LoadScene (3);
+		SceneManager.LoadScene (5);
 	
 	
 	}

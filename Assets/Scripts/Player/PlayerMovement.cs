@@ -41,7 +41,7 @@ namespace CompleteProject
 				a.Play ("Desi_stand");
 
 			} else {
-				a.Stop ("Desi_stand");
+		//		a.Stop ("Desi_stand");
 			}
             // Move the player around the scene.
             Move (h, v);

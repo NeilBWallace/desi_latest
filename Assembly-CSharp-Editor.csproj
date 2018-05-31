@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2DC5A42F-C992-F8F6-F0D7-B6F36C32DAF7}</ProjectGuid>
+    <ProjectGuid>{893A9B65-71A2-3AA3-F536-F1437799EF5E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -51,6 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DefaultPlayables\Editor\TimelinePlayableWizard.cs" />
+     <Compile Include="Assets\DefaultPlayables\LightControl\Editor\LightControlDrawer.cs" />
+     <Compile Include="Assets\DefaultPlayables\ScreenFader\Editor\ScreenFaderDrawer.cs" />
+     <Compile Include="Assets\DefaultPlayables\TextSwitcher\Editor\TextSwitcherDrawer.cs" />
+     <Compile Include="Assets\DefaultPlayables\TimeDilation\Editor\TimeDilationDrawer.cs" />
+     <Compile Include="Assets\DefaultPlayables\TransformTween\Editor\TransformTweenDrawer.cs" />
      <Compile Include="Assets\JSONObject\Editor\JSONChecker.cs" />
      <Compile Include="Assets\MobileInput\Scripts\Editor\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
@@ -155,10 +161,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/desi_try/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/desi_try - Copy/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/desi_try/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/desi_try - Copy/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/WallaceN/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -184,7 +190,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CAB15097-52F0-8B85-64FB-7B1229B8167F}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{3359E726-4132-DD7E-9A58-0F8A0474A1BA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

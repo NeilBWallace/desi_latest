@@ -1,19 +1,25 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Winter Zone Mini 1.0\Scripts\FXDemoController.cs">
     <Files>
-      <File FileName="Assets\Scripts\startup.cs" Line="41" Column="12" />
-      <File FileName="Assets\Scripts\ListItemCountry.cs" Line="35" Column="26" />
-      <File FileName="Assets\Scripts\ListControllerTest.cs" Line="83" Column="1" />
-      <File FileName="Assets\Scripts\ObjectSelected.cs" Line="40" Column="33" />
-      <File FileName="Assets\Scripts\Opening_Values.cs" Line="15" Column="42" />
-      <File FileName="Assets\Scripts\Managers\EnemyManager.cs" Line="16" Column="9" />
+      <File FileName="Assets\Assets\PlaySnow.cs" Line="12" Column="29" />
+      <File FileName="Assets\Scripts\startup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ListItemCountry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ListControllerTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectSelected.cs" Line="70" Column="1" />
+      <File FileName="Assets\Scripts\Opening_Values.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Managers\EnemyManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PlayGame.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\choose_the_food.cs" Line="48" Column="45" />
-      <File FileName="Assets\Scripts\add_food.cs" Line="24" Column="65" />
+      <File FileName="Assets\Scripts\choose_the_food.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\add_food.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\stats.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ChooseFood.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Eat_Item.cs" Line="66" Column="5" />
+      <File FileName="Assets\Scripts\Eat_Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Managers\GameOverManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\countries.json" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Countries.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\choose_Food.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Winter Zone Mini 1.0\Scripts\FXDemoController.cs" Line="68" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
